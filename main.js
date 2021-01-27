@@ -1,3 +1,5 @@
+// todo: decimal functionality
+
 let total = 0;
 let numberToBeProcessed = 0;
 let decimalToBeProcessed = 0;
